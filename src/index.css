@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  background: linear-gradient(45deg blue rgb(225, 95, 95));
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
